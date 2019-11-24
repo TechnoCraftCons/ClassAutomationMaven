@@ -1,0 +1,5 @@
+com\technoctaftAutomation\app\AppTest.class
+tests\EaAppLoginTest.class
+tests\EAAPPValid.class
+reusableObjects\EaAppLoginPage.class
+reusableObjects\EaAppHomePage.class
